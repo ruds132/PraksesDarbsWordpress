@@ -1,0 +1,25 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    color: black;
+}
+.card-img-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+body {
+    font-size: 16px;
+  }
+.navbar {
+  width: 100%;
+  margin-left: 0%;
+  margin-right: 0%; 
+}
+
+.navbar-brand {
+  margin-right: 0%; 
+  margin-left: 10%; 
+}
+.navbar-collapse {
+  justify-content: center; 
+}
